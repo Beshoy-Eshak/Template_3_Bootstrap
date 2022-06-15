@@ -1,0 +1,31 @@
+body{
+    background-color: #777 !important ;
+}
+.navbar{
+    opacity: 0.8;
+}
+.navbar-brand{
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+    font-weight: bold;
+}
+.form-control::placeholder{
+    color: #6c757d;
+    opacity: 1;
+}
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+}
+.fixedimg1{
+    background-image: url(../image/ªTsnƒó-FOánfó¬-Oftp-OÑnß-_182048401_-__.jpg);
+}
+.fixedimg2{
+    background-image: url(../image/images.jpg);
+}
+.myicon{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+}
